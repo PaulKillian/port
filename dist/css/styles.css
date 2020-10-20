@@ -7383,6 +7383,7 @@ button.bg-dark:focus {
   right: 0;
   left: 0;
   z-index: 1030;
+  height: 60px
 }
 
 .fixed-bottom {
@@ -10021,7 +10022,7 @@ p {
 }
 .page-section {
   padding: 6rem 0;
-  background-color: rgb(0, 27, 39);
+  background-color: #003886;
 }
 .page-section h2.section-heading {
   font-size: 2.5rem;
@@ -10083,7 +10084,7 @@ img::-moz-selection {
 #mainNav {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: rgb(0, 27, 39);
+  background-color: #003886;
 }
 #mainNav .navbar-toggler {
   padding: 0.75rem;
@@ -10091,7 +10092,7 @@ img::-moz-selection {
   font-size: 0.75rem;
   color: #ffebaa;
   text-transform: uppercase;
-  background-color: rgb(0, 27, 39);;
+  background-color: #003886;
   border: 0;
 }
 #mainNav .navbar-brand {
@@ -10111,6 +10112,11 @@ img::-moz-selection {
 }
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
   color: #e7d798
+}
+
+.logo {
+    width: 50px;
+    height: auto
 }
 
 @media (min-width: 992px) {
@@ -10475,7 +10481,7 @@ section#contact {
 }
 
 .bg-color {
-    background-color: rgb(0, 27, 39);
+    background-color: #003886;
 }
 
 .react-color {
@@ -10483,7 +10489,7 @@ section#contact {
 }
 
 .icon-color {
-    color: rgb(0, 27, 39);
+    color: #003886;
 }
 
 .icon-size {
@@ -10516,7 +10522,7 @@ section#contact {
 .line-under {
     border: 0;
     height: 1px;
-    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgb(0, 27, 39);, rgba(0, 0, 0, 0));
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), #003886;, rgba(0, 0, 0, 0));
 }
 
 .line-under1 {
@@ -10533,7 +10539,7 @@ section#contact {
   #mainNav {
    padding-top: 1rem;
     padding-bottom: 1rem;
-    background-color: rgb(0, 27, 39);
+    background-color: #003886;
   }
 }
 
