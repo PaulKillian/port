@@ -36,6 +36,7 @@
         "url": "https://github.com/StartBootstrap/startbootstrap-agency.git"
     },
     "dependencies": {
+        "aos": "^2.3.4",
         "bootstrap": "4.5.0"
     },
     "devDependencies": {
