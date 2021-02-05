@@ -10038,6 +10038,9 @@ p {
   margin-bottom: 1rem;
     color: white;
 }
+.navbar-expand-lg > .container{
+    height: 28px;
+}
 .page-section h3.section-subheading {
   font-size: 1rem;
   font-weight: 400;
